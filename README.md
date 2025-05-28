@@ -8,7 +8,7 @@ Seeking opportunities as a Junior .NET Developer
 
 ## Projects
 
-- [Fight Or Die](https://github.com/wygon/FightOrD1ev2) – Java class final project.
+- Fight Or Die - [server](https://github.com/wygon/FightOrD1ev2) [client](https://github.com/wygon/FightOrD1e2-client) – Java class final project.
 - [Task List](https://github.com/wygon/TaskList) – Simple task list app in .NET.
 - [Wygon’s Town](https://github.com/wygon/Town-Of-Us-WYGON) – Custom fork of the Town of Us game.
 - [Airbnb clone](https://github.com/wygon/tiu-project) - Reactjs aribnb clone tui class final project.
@@ -18,7 +18,7 @@ Seeking opportunities as a Junior .NET Developer
 
 ## Technologies
 
-- **Languages**: C#, Java, C++, Python3, JavaScript, HTML/CSS  
+- **Languages**: C#, Java, C++, Python, JavaScript, HTML/CSS  
 - **Frameworks**: .NET Core, ASP.NET Core, Entity Framework, ReactJS, Swing  
 - **Databases**: MSSQL, MySQL  
 - **Other**: LINQ, Git, Selenium, Bootstrap, REST API
