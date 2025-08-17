@@ -1,6 +1,6 @@
 # Hi, I'm Szymon Wygoński! 
 
-3nd-year student in *Business Application Developer* at WSB-NLU in Nowy Sącz
+3rd-year student in *Business Application Developer* at WSB-NLU in Nowy Sącz
 Passionate about .NET, algorithms, databases, webapp, and new technologies  
 Currently working as a Junior .NET Developer  
 
