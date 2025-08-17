@@ -1,8 +1,8 @@
 # Hi, I'm Szymon Wygoński! 
 
-2nd-year student in *Business Application Developer* at WSB-NLU in Nowy Sącz
-Passionate about .NET, algorithms, databases, and new technologies  
-Seeking opportunities as a Junior .NET Developer  
+3nd-year student in *Business Application Developer* at WSB-NLU in Nowy Sącz
+Passionate about .NET, algorithms, databases, webapp, and new technologies  
+Currently working as a Junior .NET Developer  
 
 ---
 
@@ -18,10 +18,12 @@ Seeking opportunities as a Junior .NET Developer
 
 ## Technologies
 
-- **Languages**: C#, Java, C++, Python, JavaScript, HTML/CSS  
-- **Frameworks**: .NET Core, ASP.NET Core, Entity Framework, ReactJS, Swing  
+- **Languages**: C#, Java, C++, Python, JavaScript, TypeScript, HTML/CSS  
+- **Frameworks**: .NET Core, ASP.NET Core, Blazor, Razor Pages, ReactJS, Swing, WPF
+- **ORM**: Entity Framework, Dapper
 - **Databases**: MSSQL, MySQL  
-- **Other**: LINQ, Git, Selenium, Bootstrap, REST API
+- **Other**: LINQ, Git, Selenium, Bootstrap, TailwindCSS, REST API, BitBucket, Jira
+- **Design patterns**: MVC, MVVM
 
 ---
 
