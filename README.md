@@ -18,11 +18,11 @@ Currently working as a Junior .NET Developer
 
 ## Technologies
 
-- **Languages**: C#, Java, C++, Python, JavaScript, TypeScript, HTML/CSS  
-- **Frameworks**: .NET Core, ASP.NET Core, Blazor, Razor Pages, ReactJS, Swing, WPF
+- **Languages**: C#, JavaScript, TypeScript, HTML/CSS  
+- **Frameworks**: .NET Core, ASP.NET Core, Blazor, Razor Pages, ReactJS, WPF
 - **ORM**: Entity Framework, Dapper
-- **Databases**: MSSQL, MySQL  
-- **Other**: LINQ, Git, Selenium, Bootstrap, TailwindCSS, REST API, BitBucket, Jira
+- **Databases**: MSSQL  
+- **Other**: LINQ, Git, Bootstrap, TailwindCSS, REST API, BitBucket, Jira
 - **Design patterns**: MVC, MVVM
 
 ---
