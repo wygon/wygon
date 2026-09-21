@@ -2,17 +2,13 @@
 
 3rd-year student in *Business Application Developer* at WSB-NLU in Nowy Sącz
 Passionate about .NET, algorithms, databases, webapp, and new technologies  
-Currently working as a Junior .NET Developer  
+Currently working as a .NET Developer  
 
 ---
 
 ## Projects
 
-- Fight Or Die - [server](https://github.com/wygon/FightOrD1ev2) [client](https://github.com/wygon/FightOrD1e2-client) – Java class final project.
-- [Task List](https://github.com/wygon/TaskList) – Simple task list app in .NET.
-- [Wygon’s Town](https://github.com/wygon/Town-Of-Us-WYGON) – Custom fork of the Town of Us game.
-- [Airbnb clone](https://github.com/wygon/tiu-project) - Reactjs aribnb clone tui class final project.
-- [CanalPlus clone](https://github.com/wygon/tiu-project-2) - Reactjs canaplus clone tui class final project.
+![Calendia](https://mycalendia.com/)
 
 ---
 
@@ -24,19 +20,6 @@ Currently working as a Junior .NET Developer
 - **Databases**: MSSQL  
 - **Other**: LINQ, Git, Bootstrap, TailwindCSS, REST API, BitBucket, Jira
 - **Design patterns**: MVC, MVVM
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wygon&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wygon&layout=compact&theme=tokyonight)
-
----
-
-## Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wygon&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
