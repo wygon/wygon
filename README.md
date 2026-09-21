@@ -8,7 +8,7 @@ Currently working as a .NET Developer
 
 ## Projects
 
-![Calendia](https://mycalendia.com/)
+[Calendia](https://mycalendia.com/)
 
 ---
 
